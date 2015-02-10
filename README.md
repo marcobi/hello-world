@@ -1,2 +1,2 @@
 # hello-world
-Yum.
+Part three of the walk through. 
